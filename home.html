@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+    <!-- load the d3.js library -->
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="http://d3js.org/topojson.v1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-latest.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
+    <script src="js/script.js"></script>
+    <link rel="stylesheet" type="text/css" href="./css/style.css" media="screen"/>
+    <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+</head>
+<body>
+    <div id="info">
+        <div class="info-text">This visualization shows differences between the abstract metro map from Vienna and its true geographical coordinates.</div>
+        <div class="info-text">Using the slider you can choose how abstract or real the metro map should look like.</div>
+        <div class="info-text">The whole underground system is comprised of 5 separate lines:
+          <a id="U1-text"> U1</a> ,
+          <a id="U2-text"> U2</a> ,
+          <a id="U3-text"> U3</a> ,
+          <a id="U4-text"> U4</a>
+          and
+          <a id="U6-text"> U6</a>
+          . The 6th one (U5) is under construction since the late 1960s – the latest plans were announced in early 2014.</div>
+        <div class="info-text">Hovering over a station displays the air distance from its next and previous stations.</div>
+    </div>
+<h1 id="heading">Vienna Metro Map</h1>
+<div id="container">
+</div>
+</br>
+<div id="table">
+    <span>Reality</span>
+    <input type="range" id="slider" min="0" max="100" value="0" oninput="switchMaps(this.value/100)" onchange="switchMaps(this.value/100)">
+    <span>Abstraction</span>
+</div>
+</body>

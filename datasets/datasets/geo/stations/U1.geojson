@@ -1,0 +1,552 @@
+{
+	"type": "FeatureCollection",
+	"generator": "overpass-ide",
+	"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+	"timestamp": "2018-11-18T22:57:02Z",
+	"features": [
+	{
+    			"type": "Feature",
+    			"properties": {
+    				"order": "23",
+    				"level": "1",
+    				"name": "Leopoldau",
+    				"public_transport": "stop_position",
+    				"railway": "stop",
+    				"ref": "2",
+    				"subway": "yes",
+    				"uic_name": "Wien Leopoldau",
+    				"wheelchair": "yes"
+    			},
+    			"geometry": {
+    				"type": "Point",
+    				"coordinates": [
+    					16.4521729,
+    					48.2776563
+    				]
+    			},
+    			"id": "node/4140441196"
+    		},
+	 {
+    			"type": "Feature",
+    			"properties": {
+    				"order": "22",
+    				"level": "-1",
+    				"name": "Großfeldsiedlung",
+    				"public_transport": "stop_position",
+    				"railway": "stop",
+    				"ref": "2",
+    				"subway": "yes",
+    				"wheelchair": "yes"
+    			},
+    			"geometry": {
+    				"type": "Point",
+    				"coordinates": [
+    					16.4477983,
+    					48.2710831
+    				]
+    			},
+    			"id": "node/4140649494"
+    		},
+	{
+    			"type": "Feature",
+    			"properties": {
+    				"order": "21",
+    				"level": "0",
+    				"name": "Aderklaaer Straße",
+    				"public_transport": "stop_position",
+    				"railway": "stop",
+    				"ref": "2",
+    				"subway": "yes",
+    				"uic_name": "Wien Aderklaaer Straße (U1)",
+    				"uic_ref": "8170830",
+    				"wheelchair": "yes"
+    			},
+    			"geometry": {
+    				"type": "Point",
+    				"coordinates": [
+    					16.4515472,
+    					48.263432
+    				]
+    			},
+    			"id": "node/60090913"
+    		},
+    		{
+            			"type": "Feature",
+            			"properties": {
+            				"order": "20",
+            				"level": "1",
+            				"name": "Rennbahnweg",
+            				"public_transport": "stop_position",
+            				"railway": "stop",
+            				"ref": "2",
+            				"subway": "yes",
+            				"uic_name": "Wien Rennbahnweg (U1)",
+            				"uic_ref": "8170228",
+            				"wheelchair": "yes"
+            			},
+            			"geometry": {
+            				"type": "Point",
+            				"coordinates": [
+            					16.4495649,
+            					48.2576264
+            				]
+            			},
+            			"id": "node/60090912"
+            		},
+            		{
+                    			"type": "Feature",
+                    			"properties": {
+                    				"order": "19",
+                    				"level": "-1",
+                    				"name": "Kagraner Platz",
+                    				"public_transport": "stop_position",
+                    				"railway": "stop",
+                    				"ref": "2",
+                    				"subway": "yes",
+                    				"uic_name": "Wien Kagraner Platz (U1)",
+                    				"uic_ref": "8170815",
+                    				"wheelchair": "yes"
+                    			},
+                    			"geometry": {
+                    				"type": "Point",
+                    				"coordinates": [
+                    					16.4431701,
+                    					48.2502539
+                    				]
+                    			},
+                    			"id": "node/4155669389"
+                    		},
+    {
+			"type": "Feature",
+			"properties": {
+				"order": "18",
+				"level": "1",
+				"name": "Kagran",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Kagran (U1)",
+				"uic_ref": "8170022",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4328326,
+					48.243047
+				]
+			},
+			"id": "node/4160839989"
+		},
+    {
+			"type": "Feature",
+			"properties": {
+				"order": "17",
+				"level": "1",
+				"name": "Alte Donau",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4247493,
+					48.2382789
+				]
+			},
+			"id": "node/4161110390"
+		},
+{
+			"type": "Feature",
+			"properties": {
+				"order": "16",
+				"level": "1",
+				"name": "Kaisermühlen VIC",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Kaisermühlen VIC (U1)",
+				"uic_ref": "8170023",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4163974,
+					48.232844
+				]
+			},
+			"id": "node/2258520260"
+		},
+	{
+    			"type": "Feature",
+    			"properties": {
+    				"order": "15",
+    				"level": "1",
+    				"name": "Donauinsel",
+    				"public_transport": "stop_position",
+    				"railway": "stop",
+    				"ref": "2",
+    				"subway": "yes",
+    				"uic_name": "Wien Donauinsel (U1)",
+    				"uic_ref": "8170008",
+    				"wheelchair": "yes"
+    			},
+    			"geometry": {
+    				"type": "Point",
+    				"coordinates": [
+    					16.4113511,
+    					48.2292444
+    				]
+    			},
+    			"id": "node/57590686"
+    		},
+{
+			"type": "Feature",
+			"properties": {
+				"order": "14",
+				"level": "-1",
+				"name": "Vorgartenstraße",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Vorgartenstraße (U1)",
+				"uic_ref": "8170065",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4010412,
+					48.2236468
+				]
+			},
+			"id": "node/57590685"
+		},
+
+	{
+    			"type": "Feature",
+    			"properties": {
+    				"order": "13",
+    				"level": "-2",
+    				"name": "Praterstern",
+    				"public_transport": "stop_position",
+    				"railway": "stop",
+    				"ref": "2",
+    				"subway": "yes",
+    				"uic_name": "Wien Praterstern (U1)",
+    				"uic_ref": "8170043",
+    				"wheelchair": "yes"
+    			},
+    			"geometry": {
+    				"type": "Point",
+    				"coordinates": [
+    					16.3929677,
+    					48.219786
+    				]
+    			},
+    			"id": "node/446001579"
+    		},
+	{
+			"type": "Feature",
+			"properties": {
+				"order": "12",
+				"level": "-2",
+				"name": "Nestroyplatz",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Nestroyplatz (U1)",
+				"uic_ref": "8170034",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3855206,
+					48.2153413
+				]
+			},
+			"id": "node/57590683"
+		},{
+          			"type": "Feature",
+          			"properties": {
+          				"order": "11",
+          				"level": "-3",
+          				"name": "Schwedenplatz",
+          				"public_transport": "stop_position",
+          				"railway": "stop",
+          				"ref": "2",
+          				"subway": "yes",
+          				"uic_name": "Wien Schwedenplatz (U1)",
+          				"uic_ref": "8170051",
+          				"wheelchair": "yes"
+          			},
+          			"geometry": {
+          				"type": "Point",
+          				"coordinates": [
+          					16.3780225,
+          					48.2119519
+          				]
+          			},
+          			"id": "node/2525507021"
+          		},
+		{
+			"type": "Feature",
+			"properties": {
+				"order": "10",
+				"level": "-4",
+				"name": "Stephansplatz",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Stephansplatz (U1)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3717592,
+					48.2083523
+				]
+			},
+			"id": "node/2440473862"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "9",
+				"level": "-5",
+				"name": "Karlsplatz",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Karlsplatz (U1)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3690698,
+					48.2016756
+				]
+			},
+			"id": "node/2525543992"
+		},
+	{
+    			"type": "Feature",
+    			"properties": {
+    				"order": "8",
+    				"indoor": "yes",
+    				"level": "-2",
+    				"location": "underground",
+    				"name": "Taubstummengasse",
+    				"public_transport": "stop_position",
+    				"railway": "stop",
+    				"ref": "2",
+    				"subway": "yes",
+    				"uic_name": "Wien Taubstummengasse (U1)",
+    				"wheelchair": "yes"
+    			},
+    			"geometry": {
+    				"type": "Point",
+    				"coordinates": [
+    					16.370356,
+    					48.1936787
+    				]
+    			},
+    			"id": "node/2671750971"
+    		}, 	{
+			"type": "Feature",
+			"properties": {
+				"order": "7",
+				"indoor": "yes",
+				"level": "-3",
+				"location": "underground",
+				"name": "Südtiroler Platz-Hauptbahnhof",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Hbf (U1)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3733021,
+					48.1870473
+				]
+			},
+			"id": "node/2671750970"
+		},
+	{
+    			"type": "Feature",
+    			"properties": {
+    				"order": "6",
+    				"indoor": "yes",
+    				"level": "-2",
+    				"location": "underground",
+    				"name": "Keplerplatz",
+    				"public_transport": "stop_position",
+    				"railway": "stop",
+    				"ref": "2",
+    				"subway": "yes",
+    				"wheelchair": "yes"
+    			},
+    			"geometry": {
+    				"type": "Point",
+    				"coordinates": [
+    					16.3760488,
+    					48.1793544
+    				]
+    			},
+    			"id": "node/4167184428"
+    		},
+
+    	 {
+        			"type": "Feature",
+        			"properties": {
+        				"order": "5",
+        				"indoor": "yes",
+        				"level": "-2",
+        				"location": "underground",
+        				"name": "Reumannplatz",
+        				"network": "VOR",
+        				"public_transport": "stop_position",
+        				"railway": "stop",
+        				"ref": "2",
+        				"subway": "yes",
+        				"wheelchair": "yes"
+        			},
+        			"geometry": {
+        				"type": "Point",
+        				"coordinates": [
+        					16.3778172,
+        					48.1749281
+        				]
+        			},
+        			"id": "node/4167184438"
+        		},
+    {
+    			"type": "Feature",
+    			"properties": {
+    				"order": "4",
+    				"name": "Troststraße",
+    				"network": "VOR",
+    				"public_transport": "stop_position",
+    				"public_transport:version": "2",
+    				"railway": "stop",
+    				"ref": "2",
+    				"subway": "yes",
+    				"wheelchair": "yes"
+    			},
+    			"geometry": {
+    				"type": "Point",
+    				"coordinates": [
+    					16.3800852,
+    					48.1689845
+    				]
+    			},
+    			"id": "node/5057951094"
+    		},
+
+    		 {
+            			"type": "Feature",
+            			"properties": {
+            				"order": "3",
+            				"name": "Altes Landgut",
+            				"network": "VOR",
+            				"public_transport": "stop_position",
+            				"public_transport:version": "2",
+            				"railway": "stop",
+            				"ref": "2",
+            				"subway": "yes",
+            				"wheelchair": "yes"
+            			},
+            			"geometry": {
+            				"type": "Point",
+            				"coordinates": [
+            					16.3830283,
+            					48.1622758
+            				]
+            			},
+            			"id": "node/5057951096"
+            		},
+            		{
+                    			"type": "Feature",
+                    			"properties": {
+                    				"order": "2",
+                    				"name": "Alaudagasse",
+                    				"network": "VOR",
+                    				"public_transport": "stop_position",
+                    				"public_transport:version": "2",
+                    				"railway": "stop",
+                    				"ref": "2",
+                    				"subway": "yes",
+                    				"wheelchair": "yes"
+                    			},
+                    			"geometry": {
+                    				"type": "Point",
+                    				"coordinates": [
+                    					16.3822695,
+                    					48.153701
+                    				]
+                    			},
+                    			"id": "node/5018582557"
+                    		},
+                    		{
+                            			"type": "Feature",
+                            			"properties": {
+                            				"order": "1",
+                            				"local_ref": "1",
+                            				"name": "Neulaa",
+                            				"network": "VOR",
+                            				"operator": "Wiener Linien",
+                            				"public_transport": "stop_position",
+                            				"public_transport:version": "2",
+                            				"railway": "stop",
+                            				"ref": "2",
+                            				"subway": "yes",
+                            				"wheelchair": "yes"
+                            			},
+                            			"geometry": {
+                            				"type": "Point",
+                            				"coordinates": [
+                            					16.3855848,
+                            					48.1457233
+                            				]
+                            			},
+                            			"id": "node/5016149163"
+                            		},
+		 {
+			"type": "Feature",
+			"properties": {
+				"order": "0",
+				"local_ref": "0",
+				"name": "Oberlaa",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3998501,
+					48.1422633
+				]
+			},
+			"id": "node/4725643934"
+		}
+	]
+}

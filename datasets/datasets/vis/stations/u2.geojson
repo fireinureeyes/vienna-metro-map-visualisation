@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "13",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stadlau",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41842893883597,
+          48.216057612928644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "14",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hardeggasse",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.42188714077911,
+          48.218404971753074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "15",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Donauspital",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.426821632242863,
+          48.21853268973939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "16",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Aspernstraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43074022869177,
+          48.2215568345152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "17",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hausfeldstraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.433877869391004,
+          48.22406904292363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "18",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Aspern Nord",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43796925819578,
+          48.224141707966076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "19",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Seestadt",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43993864542721,
+          48.21845977553648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "12",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Donaustadtbrücke",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41482253523319,
+          48.21350371868292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "11",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Donaumarina",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.40641484063719,
+          48.20893230785821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "10",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stadion",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.399181464010145,
+          48.21498805697241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "9",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Krieau",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39523298138083,
+          48.21832995886881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Messe-Prater",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39116263212075,
+          48.221698653501136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "7",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Praterstern",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.38533828407842,
+          48.22289916102386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "6",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Taborstraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.378878561616897,
+          48.22290283497671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "5",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Schottenring",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.372144307567133,
+          48.22290606132473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "4",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Schottentor",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.366161172548804,
+          48.2187005503848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "3",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rathaus",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.361395356745575,
+          48.21488460374275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "2",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Volkstheater",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.35922569682598,
+          48.2094252929143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "1",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mariahilfer Straße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36220636073072,
+          48.20325700453688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Karlsplatz",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.370790305677918,
+          48.199257088329716
+        ]
+      }
+    }
+  ]
+}

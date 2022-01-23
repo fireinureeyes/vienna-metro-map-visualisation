@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ottakring",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33167149835108,
+          48.22168379521663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "1",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kendlerstraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33382491841813,
+          48.21987392285571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "2",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hütteldorfer Straße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33678985132976,
+          48.21739420549506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "3",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Johnstraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.339656491169787,
+          48.21499090999112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "4",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Schweglerstraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3424654567844,
+          48.212638338819495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "5",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Westbahnhof",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34664005526622,
+          48.20953346330699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "6",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zieglergasse",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.351160661049704,
+          48.20940683178688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "7",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Neubaugasse",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.355074979149453,
+          48.209406150367236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Volkstheater",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.359276682370286,
+          48.209405187189894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "9",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Herrengasse",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36401422362653,
+          48.2093553029089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "10",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stephansplatz",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37085238438407,
+          48.209334058545615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "11",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stubentor",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.376855245687274,
+          48.20931610520369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "12",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Landstraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.381630816826984,
+          48.20934751841442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "13",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rochusgasse",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.389615392073697,
+          48.20662446144654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "14",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kardinal-Nagl-Platz",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.391645721947363,
+          48.204935600607655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "15",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Schlachthausgasse",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.393807925669414,
+          48.203220722642804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "16",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Erdberg",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.396010137451587,
+          48.20136781892058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "17",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Gasometer",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39818066165788,
+          48.19955057612281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "18",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zippererstraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.400160548646138,
+          48.19734309837017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "19",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Enkplatz",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.400233955349155,
+          48.193643455135195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "20",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Simmering",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.400227664896153,
+          48.188247525004954
+        ]
+      }
+    }
+  ]
+}

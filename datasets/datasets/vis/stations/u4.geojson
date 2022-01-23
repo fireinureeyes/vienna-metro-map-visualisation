@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hütteldorf",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.339546133996727,
+          48.19917493838976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "1",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ober St. Veit",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.341582514795615,
+          48.19917576335017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "2",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Unter St. Veit",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34436404395538,
+          48.19917666784167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "3",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Braunschweiggasse",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.346951869899378,
+          48.199177278815895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "4",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hietzing",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.349330819815293,
+          48.1991776444426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "5",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Schönbrunn",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.35174826224046,
+          48.19917782361425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "6",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Meidling Hauptstraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.354189858363856,
+          48.199177807745265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "7",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Längenfeldgasse",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.356838809655116,
+          48.19917756680729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Margaretengürtel",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.360246815015135,
+          48.19917691435793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "9",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pilgramgasse",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36393847453063,
+          48.19917577276514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "10",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kettenbrückengasse",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.367766787307072,
+          48.19917411128318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "11",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Karlsplatz",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.372314010751513,
+          48.19917714094397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "12",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stadtpark",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.377796115527214,
+          48.20163172605108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "13",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Landstraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37921930713856,
+          48.20928767675308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "14",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Schwedenplatz",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.377455722368953,
+          48.21729879559552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "15",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Schottenring",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.373231084817153,
+          48.22282607969503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "16",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Roßauer Lände",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37021102142834,
+          48.22678767252158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "17",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Friedensbrücke",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.367681275077246,
+          48.23005827668083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "18",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Spittelau",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36582842420101,
+          48.23466438437087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "19",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Heiligenstadt",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36582991182873,
+          48.24051150006412
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+	"type": "FeatureCollection",
+	"generator": "overpass-ide",
+	"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+	"timestamp": "2018-11-18T22:55:02Z",
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"order": "9",
+				"level": "-2",
+				"name": "Herrengasse",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"wheelchair": "limited"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3650709,
+					48.2094072
+				]
+			},
+			"id": "node/60093482"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "11",
+				"name": "Stubentor",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"wheelchair": "limited"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3792336,
+					48.2069739
+				]
+			},
+			"id": "node/60093484"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "5",
+				"name": "Westbahnhof",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Westbahnhof (U3)",
+				"uic_ref": "8170066",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3379164,
+					48.1959805
+				]
+			},
+			"id": "node/60847900"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "6",
+				"level": "-3",
+				"name": "Zieglergasse",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Zieglergasse (U3)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3462967,
+					48.1971159
+				]
+			},
+			"id": "node/60848217"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "7",
+				"level": "-3",
+				"name": "Neubaugasse",
+				"network": "VOR",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Neubaugasse (U3)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3525321,
+					48.1992115
+				]
+			},
+			"id": "node/60848313"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "3",
+				"name": "Johnstraße",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Johnstraße (U3)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3201499,
+					48.1976939
+				]
+			},
+			"id": "node/60848715"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "4",
+				"name": "Schweglerstraße",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Schweglerstraße (U3)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3285003,
+					48.1978969
+				]
+			},
+			"id": "node/60848716"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "0",
+				"name": "Ottakring",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Ottakring (U3)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3113812,
+					48.2110293
+				]
+			},
+			"id": "node/60849378"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "16",
+				"name": "Erdberg",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4141822,
+					48.1914748
+				]
+			},
+			"id": "node/69472524"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "2",
+				"name": "Hütteldorfer Straße",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Hütteldorfer Straße (U3)",
+				"wheelchair": "limited"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3115423,
+					48.1998449
+				]
+			},
+			"id": "node/69503159"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "1",
+				"name": "Kendlerstraße",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Kendlerstraße (U3)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3092214,
+					48.2045479
+				]
+			},
+			"id": "node/69505153"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "8",
+				"level": "-2",
+				"name": "Volkstheater",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Volkstheater (U3)",
+				"uic_ref": "8170064",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3590773,
+					48.2056689
+				]
+			},
+			"id": "node/2443041092"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "10",
+				"level": "-3",
+				"name": "Stephansplatz",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Stephansplatz (U3)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3715888,
+					48.2080571
+				]
+			},
+			"id": "node/3500528320"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "19",
+				"name": "Enkplatz",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4149172,
+					48.1748181
+				]
+			},
+			"id": "node/4348361650"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "17",
+				"name": "Gasometer",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4174875,
+					48.185137
+				]
+			},
+			"id": "node/4348361651"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "20",
+				"name": "Simmering",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Simmering (U3)",
+				"uic_ref": "8170076",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4206007,
+					48.169817
+				]
+			},
+			"id": "node/4348361819"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "18",
+				"name": "Zippererstraße",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4121931,
+					48.1801668
+				]
+			},
+			"id": "node/4348361820"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "14",
+				"name": "Kardinal-Nagl-Platz",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Kardinal-Nagl-Platz (U3)",
+				"wheelchair": "limited"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3998962,
+					48.197622
+				]
+			},
+			"id": "node/4348401658"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "12",
+				"name": "Landstraße",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Mitte-Landstraße Bf (U3)",
+				"uic_ref": "8170028",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.385708,
+					48.2058228
+				]
+			},
+			"id": "node/4348401660"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "13",
+				"name": "Rochusgasse",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Rochusgasse (U3)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3923044,
+					48.202132
+				]
+			},
+			"id": "node/4348402508"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "15",
+				"name": "Schlachthausgasse",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Schlachthausgasse (U3)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4067773,
+					48.194462
+				]
+			},
+			"id": "node/4348402510"
+		}
+	]
+}

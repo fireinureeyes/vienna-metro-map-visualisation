@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "23",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Leopoldau",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41213125118748,
+          48.24507746894518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "22",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Großfeldsiedlung",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.409758982588198,
+          48.24310125800558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "21",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Aderklaaer Straße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.407389777361278,
+          48.24114967335093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "20",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rennbahnweg",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.404997040752168,
+          48.2391354978776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "19",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kagraner Platz",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.402764769113478,
+          48.23730689938601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "18",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kagran",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.40039295459259,
+          48.23535106057132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "17",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alte Donau",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39773194117929,
+          48.233145190991934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "16",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kaisermühlen VIC",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.395605297835996,
+          48.231379362299926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "15",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Donauinsel",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.393489714209764,
+          48.22962722929996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "14",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Vorgartenstraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.38868851068554,
+          48.225646226107735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "13",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Praterstern",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.385344896029313,
+          48.222860079873016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "12",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nestroyplatz",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.382121548681695,
+          48.22016630018632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "11",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Schwedenplatz",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.378830842031068,
+          48.217339661830415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "10",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stephansplatz",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.370808010790658,
+          48.20931508311917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "9",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Karlsplatz",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.370796917628812,
+          48.19921800717887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Taubstummengasse",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.370803564924834,
+          48.19364254550582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "7",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Südtiroler Platz-Hauptbahnhof",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.370799613590055,
+          48.18699141696653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "6",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Keplerplatz",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.370796774235586,
+          48.182210547307875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "5",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Reumannplatz",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37198934857025,
+          48.179219581693005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "4",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Troststraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.374306326568774,
+          48.17732865732028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "3",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Altes Landgut",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37661621035024,
+          48.17538839774536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "2",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alaudagasse",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37876090277836,
+          48.1736292507935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "1",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Neulaa",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.38096285655209,
+          48.17185924751005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Oberlaa",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3832494632972,
+          48.169934558608034
+        ]
+      }
+    }
+  ]
+}

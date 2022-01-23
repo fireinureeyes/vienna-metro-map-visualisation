@@ -1,0 +1,407 @@
+{
+	"type": "FeatureCollection",
+	"generator": "overpass-ide",
+	"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+	"timestamp": "2018-11-18T22:56:02Z",
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"order": "12",
+				"name": "Stadtpark",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Stadtpark (U4)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3797776,
+					48.2029428
+				]
+			},
+			"id": "node/60475645"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "9",
+				"name": "Pilgramgasse",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Pilgramgasse (U4)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3542786,
+					48.1921565
+				]
+			},
+			"id": "node/60475940"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "2",
+				"name": "Unter St. Veit",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Unter St. Veit (U4)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.2863578,
+					48.1910836
+				]
+			},
+			"id": "node/60476133"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "3",
+				"name": "Braunschweiggasse",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Braunschweiggasse (U4)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.2958047,
+					48.1894183
+				]
+			},
+			"id": "node/60476136"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "4",
+				"local_ref": "2",
+				"name": "Hietzing",
+				"network": "VOR",
+				"public_transport": "stop_position",
+				"subway": "yes",
+				"uic_name": "Wien Hietzing (U4)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3045615,
+					48.1875906
+				]
+			},
+			"id": "node/60476139"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "6",
+				"layer": "-1",
+				"local_ref": "2",
+				"name": "Meidling Hauptstraße",
+				"network": "VOR",
+				"public_transport": "stop_position",
+				"subway": "yes",
+				"uic_name": "Wien Meidling Hauptstraße (U4)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3280839,
+					48.1837056
+				]
+			},
+			"id": "node/60476152"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "5",
+				"name": "Schönbrunn",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Schönbrunn (U4)",
+				"website": "https://www.wienerlinien.at/",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3190433,
+					48.1860338
+				]
+			},
+			"id": "node/61276349"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "7",
+				"name": "Längenfeldgasse",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Längenfeldgasse (U4/U6)",
+				"uic_ref": "8170029",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3350314,
+					48.1849306
+				]
+			},
+			"id": "node/66488892"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "13",
+				"name": "Landstraße",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Mitte-Landstraße Bf (U4)",
+				"uic_ref": "8101999",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3846873,
+					48.2068104
+				]
+			},
+			"id": "node/69461745"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "10",
+				"name": "Kettenbrückengasse",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Kettenbrückengasse (U4)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3580974,
+					48.1966484
+				]
+			},
+			"id": "node/69556621"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "1",
+				"local_ref": "2",
+				"name": "Ober St. Veit",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Ober St. Veit (U4)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.2761632,
+					48.1922486
+				]
+			},
+			"id": "node/69577600"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "0",
+				"name": "Hütteldorf",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Hütteldorf (U4)",
+				"uic_ref": "8170019",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.2609014,
+					48.1970194
+				]
+			},
+			"id": "node/317259822"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "15",
+				"level": "-1",
+				"name": "Schottenring",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Schottenring (U4)",
+				"uic_ref": "8170248",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3718496,
+					48.2164534
+				]
+			},
+			"id": "node/598192261"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "8",
+				"name": "Margaretengürtel",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Margaretengürtel (U4)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3430097,
+					48.1884995
+				]
+			},
+			"id": "node/1352828684"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "19",
+				"name": "Heiligenstadt",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Heiligenstadt Bf (U4)",
+				"uic_ref": "8170015",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3659144,
+					48.2487058
+				]
+			},
+			"id": "node/1418491819"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "17",
+				"name": "Friedensbrücke",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"transport": "subway",
+				"uic_name": "Wien Friedenbrücke (U4)",
+				"uic_ref": "8170013"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.364013,
+					48.2276906
+				]
+			},
+			"id": "node/1418491823"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "18",
+				"name": "Spittelau",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Spittelau (U4)",
+				"uic_ref": "8170044",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3584303,
+					48.2350244
+				]
+			},
+			"id": "node/1418491847"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "16",
+				"name": "Roßauer Lände",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"transport": "subway",
+				"uic_name": "Wien Roßauer Lände (U4)",
+				"uic_ref": "8170048"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3675501,
+					48.2223365
+				]
+			},
+			"id": "node/2525501897"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "11",
+				"level": "-2",
+				"name": "Karlsplatz",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Karlsplatz (U4)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.369697,
+					48.2004685
+				]
+			},
+			"id": "node/3993342688"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "14",
+				"level": "-1",
+				"name": "Schwedenplatz",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Schwedenplatz (U4)",
+				"uic_ref": "8101997",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3785586,
+					48.2116771
+				]
+			},
+			"id": "node/4180358900"
+		}
+	]
+}

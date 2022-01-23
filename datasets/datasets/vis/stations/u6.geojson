@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "23",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Siebenhirten",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31498152128925,
+          48.17002639842266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "22",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Perfektastraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.318385054241258,
+          48.17278481987552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "21",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Erlaaer Straße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.321661806500526,
+          48.17554075478705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "20",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alterlaa",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32471643904885,
+          48.17815573524536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "19",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Am Schöpfwerk",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.327592513410572,
+          48.18041195036587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "18",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tscherttegasse",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.330070824657557,
+          48.18262727826933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "17",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bahnhof Meidling",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34660500928866,
+          48.18598518015813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "16",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Niederhofstraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.346630424481447,
+          48.194183356527255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "15",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Längenfeldgasse",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.346606654966273,
+          48.19930205590113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "14",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Gumpendorfer Straße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34669813013719,
+          48.20437629205442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "13",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Westbahnhof",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34658542072339,
+          48.209598110739485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "12",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Burggasse-Stadthalle",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.346699462366594,
+          48.2149948470938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "11",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Thaliastraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.346666109747435,
+          48.21829507605573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "10",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Josefstädter Straße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.346634089461222,
+          48.22160583379154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "9",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alser Straße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.348118912144066,
+          48.22538762502984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Michelbeuern-AKH",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.350850000746686,
+          48.2275823126375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "7",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Währinger Straße-Volksoper",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.353822134240286,
+          48.2300216519683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "6",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wien Nussdorfer Straße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.356876923227553,
+          48.23268198962365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "5",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Spittelau",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36065292769423,
+          48.23478887346471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "4",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jägerstraße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36553929090777,
+          48.234787356707145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "3",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dresdner Straße",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.367904700019494,
+          48.234897142126826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "2",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Handelskai",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.370382473125872,
+          48.236550961023895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "1",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Neue Donau",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.378872478503116,
+          48.24368128713727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order": "0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Floridsdorf",
+        "SubClasses": "AcDbEntity:AcDbBlockReference",
+        "Linetype": "null",
+        "EntityHand": 42,
+        "Text": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.381299777652742,
+          48.245719165351
+        ]
+      }
+    }
+  ]
+}

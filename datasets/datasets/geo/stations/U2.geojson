@@ -1,0 +1,441 @@
+{
+	"type": "FeatureCollection",
+	"generator": "overpass-ide",
+	"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+	"timestamp": "2018-11-18T22:49:02Z",
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"order": "6",
+				"level": "-2",
+				"name": "Taborstraße",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Taborstraße (U2)",
+				"uic_ref": "8170938"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3816554,
+					48.2191117
+				]
+			},
+			"id": "node/62667240"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "9",
+				"level": "1",
+				"name": "Krieau",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Krieau (U2)",
+				"uic_ref": "8170448",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4136826,
+					48.2146488
+				]
+			},
+			"id": "node/62671827"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "11",
+				"level": "1",
+				"name": "Donaumarina",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Donaumarina (U2)",
+				"uic_ref": "8170611",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4314801,
+					48.2063642
+				]
+			},
+			"id": "node/62671836"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "15",
+				"level": "1",
+				"name": "Donauspital",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Donauspital (U2)",
+				"uic_ref": "8170297",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4665931,
+					48.2193792
+				]
+			},
+			"id": "node/68187430"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "16",
+				"level": "1",
+				"name": "Aspernstraße",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Aspernstraße (U2)",
+				"uic_ref": "8170639",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4749926,
+					48.2225595
+				]
+			},
+			"id": "node/68187437"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "12",
+				"level": "1",
+				"name": "Donaustadtbrücke",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Donaustadtbrücke",
+				"uic_ref": "8170381",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4401871,
+					48.2117911
+				]
+			},
+			"id": "node/69389284"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "13",
+				"level": "1",
+				"name": "Stadlau",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Stadlau (U2)",
+				"uic_ref": "8170925",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4496094,
+					48.2197176
+				]
+			},
+			"id": "node/69391819"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "14",
+				"level": "1",
+				"name": "Hardeggasse",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Hardeggasse (U2)",
+				"uic_ref": "8170193",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4577539,
+					48.2208329
+				]
+			},
+			"id": "node/69393189"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "17",
+				"level": "1",
+				"name": "Hausfeldstraße",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Hausfeldstraße",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4857726,
+					48.2333659
+				]
+			},
+			"id": "node/486237352"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "10",
+				"level": "1",
+				"name": "Stadion",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Stadion (U2)",
+				"uic_ref": "8170616",
+				"wheelchair": "yes",
+				"wheelchair:description": "Bahnsteig der Linie U2 in Richtung Seestadt (Aspernstraße)."
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4203651,
+					48.210416
+				]
+			},
+			"id": "node/1570802247"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "18",
+				"level": "1",
+				"name": "Aspern Nord",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Aspern Nord",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.5045046,
+					48.2344386
+				]
+			},
+			"id": "node/2012172246"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "19",
+				"level": "1",
+				"name": "Seestadt",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Seestadt",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.5083313,
+					48.2262819
+				]
+			},
+			"id": "node/2012172250"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "3",
+				"level": "-1",
+				"name": "Rathaus",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3554247,
+					48.2101044
+				]
+			},
+			"id": "node/2216387623"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "0",
+				"level": "-3",
+				"name": "Karlsplatz",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Karlsplatz (U2)",
+				"uic_ref": "8102000",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3693248,
+					48.2010053
+				]
+			},
+			"id": "node/2216387626"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "4",
+				"level": "-2",
+				"name": "Schottentor",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Schottentor (U2)",
+				"uic_ref": "8170050",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3629616,
+					48.2150088
+				]
+			},
+			"id": "node/2216387644"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "2",
+				"level": "-1",
+				"name": "Volkstheater",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Volkstheater (U2)",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3580331,
+					48.2051827
+				]
+			},
+			"id": "node/2216387652"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "7",
+				"level": "-3",
+				"name": "Praterstern",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Praterstern (U2)",
+				"uic_ref": "8170427",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3936734,
+					48.2184755
+				]
+			},
+			"id": "node/2525171816"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "5",
+				"level": "-2",
+				"name": "Schottenring",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Schottenring (U2)",
+				"uic_ref": "8170049"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3722575,
+					48.2172262
+				]
+			},
+			"id": "node/2525338265"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "8",
+				"level": "-1",
+				"name": "Messe-Prater",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Messe-Prater (U2)",
+				"uic_ref": "8170412",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4049289,
+					48.2177181
+				]
+			},
+			"id": "node/2525408826"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "1",
+				"alt_name": "Mariahilfer Straße",
+				"level": "-2",
+				"name": "Museumsquartier",
+				"old_name": "Mariahilfer Straße; Babenbergerstraße",
+				"public_transport": "stop_position",
+				"railway": "stop",
+				"ref": "2",
+				"subway": "yes",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3612402,
+					48.2027064
+				]
+			},
+			"id": "node/4123328189"
+		}
+	]
+}

@@ -1,0 +1,492 @@
+{
+	"type": "FeatureCollection",
+	"generator": "overpass-ide",
+	"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+	"timestamp": "2018-11-18T22:55:02Z",
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"order": "3",
+				"name": "Dresdner Straße",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Dresdner Straße (U6)",
+				"uic_ref": "8170016",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3801747,
+					48.2373503
+				]
+			},
+			"id": "node/60091121"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "4",
+				"name": "Jägerstraße",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Jägerstraße (U6)",
+				"uic_ref": "8170070",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3685821,
+					48.2353013
+				]
+			},
+			"id": "node/60091215"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "1",
+				"local_ref": "2",
+				"name": "Neue Donau",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Neue Donau (U6)",
+				"uic_ref": "8170071",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3946811,
+					48.2463043
+				]
+			},
+			"id": "node/60821127"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "0",
+				"local_ref": "2",
+				"name": "Floridsdorf",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Floridsdorf (U6)",
+				"uic_ref": "8170012",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.4002991,
+					48.2562236
+				]
+			},
+			"id": "node/60821450"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "17",
+				"name": "Bahnhof Meidling",
+				"old_name": "Wien Philadelphiabrücke",
+				"operator": "Wiener Linien",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Meidling Bf (U6)",
+				"uic_ref": "8170040",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3313111,
+					48.1735402
+				]
+			},
+			"id": "node/61688573"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "18",
+				"name": "Tscherttegasse",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Tscherttegasse (U6)",
+				"uic_ref": "8170062",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3277803,
+					48.1649913
+				]
+			},
+			"id": "node/61688579"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "19",
+				"name": "Am Schöpfwerk",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Am Schöpfwerk (U6)",
+				"uic_ref": "8170003",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3241801,
+					48.1606867
+				]
+			},
+			"id": "node/61688581"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "2",
+				"local_ref": "2",
+				"name": "Handelskai",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3853856,
+					48.2417279
+				]
+			},
+			"id": "node/92339823"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "16",
+				"name": "Niederhofstraße",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Niederhofstraße (U6)",
+				"uic_ref": "8170035",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3310422,
+					48.1807565
+				]
+			},
+			"id": "node/272657452"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "15",
+				"name": "Längenfeldgasse",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Längenfeldgasse (U4/U6)",
+				"uic_ref": "8170029",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3349607,
+					48.1849775
+				]
+			},
+			"id": "node/624231466"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "9",
+				"name": "Alser Straße",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Alser Straße (U6)",
+				"uic_ref": "8170001",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3417797,
+					48.2167701
+				]
+			},
+			"id": "node/1391371057"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "10",
+				"name": "Josefstädter Straße",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Josefstädter Straße (U6)",
+				"uic_ref": "8170021",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3391347,
+					48.2114636
+				]
+			},
+			"id": "node/1391371069"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "8",
+				"name": "Michelbeuern-AKH",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Michelbeuern-AKH (U6)",
+				"uic_ref": "8170033",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3441128,
+					48.2212148
+				]
+			},
+			"id": "node/1391371084"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "6",
+				"alt_name": "Wien Nussdorfer Straße",
+				"name": "Nußdorfer Straße",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Nußdorfer Straße (U6)",
+				"uic_ref": "8170036",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3524508,
+					48.2313569
+				]
+			},
+			"id": "node/1391371110"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "5",
+				"name": "Spittelau",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Spittelau (U6)",
+				"uic_ref": "8102004",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3581329,
+					48.2356113
+				]
+			},
+			"id": "node/1391371862"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "11",
+				"name": "Thaliastraße",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Thaliastraße (U6)",
+				"uic_ref": "8170061",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3379802,
+					48.2078023
+				]
+			},
+			"id": "node/1391371870"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "7",
+				"name": "Währinger Straße-Volksoper",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Währinger Straße-Volksoper (U6)",
+				"uic_ref": "8170068",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3494867,
+					48.2256279
+				]
+			},
+			"id": "node/1391371900"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "23",
+				"name": "Siebenhirten",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Siebenhirten (U6)",
+				"uic_ref": "8170055",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3098058,
+					48.1305036
+				]
+			},
+			"id": "node/2108420555"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "21",
+				"name": "Erlaaer Straße",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Erlaaer Straße (U6)",
+				"uic_ref": "8170010",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3165003,
+					48.1419872
+				]
+			},
+			"id": "node/2108469429"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "22",
+				"name": "Perfektastraße",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Perfektastraße (U6)",
+				"uic_ref": "8170039",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3132257,
+					48.1366247
+				]
+			},
+			"id": "node/2108469455"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "20",
+				"name": "Alterlaa",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Alterlaa (U6)",
+				"uic_ref": "8170067",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3167721,
+					48.1505087
+				]
+			},
+			"id": "node/2108560287"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "13",
+				"name": "Westbahnhof",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Westbahnhof (U6)",
+				"uic_ref": "8102005",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3390492,
+					48.1967846
+				]
+			},
+			"id": "node/2211616098"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "12",
+				"name": "Burggasse-Stadthalle",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Burggasse-Stadthalle (U6)",
+				"uic_ref": "8170007",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.3371972,
+					48.2029717
+				]
+			},
+			"id": "node/2211616118"
+		}, {
+			"type": "Feature",
+			"properties": {
+				"order": "14",
+				"name": "Gumpendorfer Straße",
+				"public_transport": "stop_position",
+				"ref": "2",
+				"subway": "yes",
+				"uic_name": "Wien Gumpendorfer Straße (U6)",
+				"uic_ref": "8170014",
+				"wheelchair": "yes"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.337519,
+					48.1907331
+				]
+			},
+			"id": "node/2212832986"
+		}
+	]
+}
